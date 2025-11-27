@@ -1,0 +1,59 @@
+Id,Name,ShortName,SiriOperatorRef,TimeZone,DefaultLanguage,ContactTelephoneNumber,WebSite,PrimaryMode,PrivateCode,Monitored,OtherModes
+5E,511 Emergency,511 Emergency,,America/Vancouver,en,,,other,5E,False,
+5F,511 Flap Sign,511 Flap Sign,,America/Vancouver,en,,,other,5F,False,
+5O,511 Operations,511 Emergency,,America/Vancouver,en,,,other,5O,False,
+5S,511 Staff,511 Staff,,America/Vancouver,en,,,other,5S,False,
+AC,AC TRANSIT,AC Transit,actransit,America/Vancouver,en,510 891-4777 ,http://www.actransit.org,bus,AC,True,
+CE,Altamont Corridor Express,ACE,null,America/Vancouver,en,1-800-411-7245,https://acerail.com/,rail,CE,True,
+AF,Angel Island Tiburon Ferry,Angel Island Ferry,,America/Vancouver,en,,https://angelislandferry.com,ferry,AF,False,
+BA,Bay Area Rapid Transit,BART,BART,America/Vancouver,en,510-465-2278,https://www.bart.gov/,rail,BA,True,bus
+CT,Caltrain,Caltrain,Caltrain,America/Vancouver,en,(800) 660-4287,http://www.caltrain.com,rail,CT,True,
+AM,Capitol Corridor Joint Powers Authority,Capitol Corridor,,America/Vancouver,en,1-877-9-RIDECC (1-877-974-3322),http://www.capitolcorridor.org,bus,AM,True,rail
+SS,City of South San Francisco,South City Shuttle,,America/Vancouver,en,,http://www.ssf.net/SCS,bus,SS,False,
+CM,Commute.org Shuttles,Commute.org,Commute.org,America/Vancouver,en,,http://www.commute.org,bus,CM,False,
+CC,County Connection,County Connection,County Connection,America/Vancouver,en,925- 676-7500,http://www.countyconnection.com/,bus,CC,True,
+DE,Dumbarton Express Consortium,Dumbarton,Dumbarton Express,America/Vancouver,en,"511 and say ""Transit agencies - Dumbarton Express""",https://dumbartonexpress.com,bus,DE,True,
+EE,Emery Express,,,America/Vancouver,en,,https://liveattheemery.com/transportation,bus,EE,False,
+EM,Emery Go-Round,Emery Go-Round,,America/Vancouver,en,"510-451-ETMA (3862) 
+",https://emerygoround.com/,bus,EM,False,
+FS,FAST,FAST,,America/Vancouver,en,"(707)422-BUSS
+(707)422-2877",http://www.fasttransit.org/,bus,FS,True,
+GF,Golden Gate Ferry,GG Ferry,Golden Gate Ferry,America/Vancouver,en,"511
+711 (TDD)",http://www.goldengate.org,ferry,GF,False,
+GG,Golden Gate Transit,GG Transit,Golden Gate Transit,America/Vancouver,en,511,http://www.goldengate.org,bus,GG,True,
+WH,Livermore Amador Valley Transit Authority,Wheels,LAVTA,America/Vancouver,en,925-455-7500,https://wheelsbus.com/,bus,WH,True,
+MA,Marin Transit,Marin Transit,Marin Transit,America/Vancouver,en,(415) 226-0855,https://marintransit.org,bus,MA,True,
+MB,Mission Bay TMA,,,America/Vancouver,en,,http://missionbaytma.org/,bus,MB,False,
+MC,Mountain View Community Shuttle,MVCS,Mountain View Community Shuttle,America/Vancouver,en,,https://mvcommunityshuttle.com/,bus,MC,False,
+MV,MVgo,,MVgo ,America/Vancouver,en,,https://mvgo.org/,bus,MV,True,
+PE,PETALUMA,Petaluma Transit,Petaluma Transit,America/Vancouver,en,"Phone: 707.778.4460 begin_of_the_skype_highlighting              707.778.4460      end_of_the_skype_highlighting
+FAX: 707.776.3799
+
+",http://petalumatransit.com,bus,PE,True,
+PG,Presidio Go,Presidio Go,,America/Vancouver,en,,https://www.presidio.gov/shuttle,bus,PG,True,
+RG,Regional GTFS,,,America/Vancouver,en,,,other,RG,False,
+RV,Rio Vista Delta Breeze,Delta Breeze,,America/Vancouver,en,"Call: (707) 374-BUSU or (707) 374-2878
+Call Toll Free: 511 say ""Rio Vista Transit""
+
+TDD/TTY: 711 through the California Relay Service
+
+",https://www.riovistacity.com/deltabreeze/page/delta-breeze-transit-schedule,bus,RV,False,
+SM,SamTrans,SamTrans,SamTrans,America/Vancouver,en,(800) 660-4287,http://www.samtrans.com,bus,SM,True,
+SB,San Francisco Bay Ferry,SF Bay Ferry,SF Bay Ferry,America/Vancouver,en,(415) 705-8291,https://sanfranciscobayferry.com/,ferry,SB,True,
+SI,San Francisco International Airport,,,America/Vancouver,en,,https://www.flysfo.com,metro,SI,False,bus
+SF,San Francisco Municipal Transportation Agency,SF Muni,SFMTA,America/Vancouver,en,<ul><li>In SF: 311</li><li>In Bay Area: 511</li><li>Outside Bay Area: 415.701.2311</li><li>TTY (all areas): 415.701.2323</li></ul><br><br>,http://www.sfmta.com,bus,SF,True,"metro,cableway"
+GP,San Francisco Recreation and Parks,,,America/Vancouver,en,,https://www.sfrecpark.org/1617/Golden-Gate-Park-Free-Shuttle,bus,GP,False,
+SQ,San Joaquins,,,America/Vancouver,en,1-800-USA-RAIL (872-7245),,other,SQ,False,
+SR,SANTAROSA,SR CityBus,Santa Rosa CityBus,America/Vancouver,en,707.543-3333,https://srcitybus.org/,bus,SR,True,
+ST,SolTrans,Soltrans,,America/Vancouver,en,(707) 648-4666,https://soltrans.org/,bus,ST,True,
+SO,Sonoma County Transit,Sonoma County,,America/Vancouver,en,"707.576.7433
+800.345.4733",http://www.sctransit.com/?referrer=gtfs,bus,SO,True,
+SA,Sonoma Marin Area Rail Transit,SMART,SMART,America/Vancouver,en,,http://www.SonomaMarinTrain.org,rail,SA,True,
+TF,Treasure Island Ferry,,,America/Vancouver,en,,https://tisf.com/,ferry,TF,False,
+3D,Tri Delta Transit,Tri Delta Transit,Tri Delta Transit,America/Vancouver,en,925-754-4040,http://trideltatransit.com,bus,3D,True,
+UC,Union City Transit,Union City,Union City Transit,America/Vancouver,en,510-471-1411 ,https://www.uctransit.org/,bus,UC,True,
+VC,Vacaville,Vacaville City Coach,Vacaville City Coach,America/Vancouver,en,(707) 449-6000,https://citycoach.com/,bus,VC,True,
+VN,VINE Transit,Napa VINE,Vine (Napa County),America/Vancouver,en,"707-251-2800 OR 
+1-800-696-6443",https://vinetransit.com/,bus,VN,True,
+SC,VTA,VTA,VTA,America/Vancouver,en,(408) 321-2300<br>TDD only: (408) 321-2330,https://www.vta.org,bus,SC,True,metro
+WC,WestCat (Western Contra Costa),WestCAT,WESTCAT,America/Vancouver,en,(510) 724-7993 ,http://www.westcat.org/,bus,WC,True,

@@ -1,0 +1,2541 @@
+{
+  "Siri": {
+    "ServiceDelivery": {
+      "ResponseTimestamp": "2025-11-15T16:04:57-08:00",
+      "DataObjectDelivery": {
+        "ResponseTimestamp": "2025-11-15T16:04:57-08:00",
+        "dataObjects": {
+          "SiteFrame": {
+            "@version": "any",
+            "@id": "CT",
+            "stopPlaces": {
+              "StopPlace": [
+                {
+                  "@version": "any",
+                  "@id": "70011",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Francisco Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.394992",
+                      "Latitude": "37.77639"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70011",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Francisco Caltrain Station Northbound",
+                    "Town": "San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70011",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70012",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Francisco Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.394935",
+                      "Latitude": "37.776348"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70012",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Francisco Caltrain Station Southbound",
+                    "Town": "San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70012",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70021",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "22nd Street Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.39188",
+                      "Latitude": "37.757599"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70021",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "22nd Street Caltrain Station Northbound",
+                    "Town": "San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70021",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70022",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "22nd Street Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.392404",
+                      "Latitude": "37.757583"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70022",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "22nd Street Caltrain Station Southbound",
+                    "Town": "San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70022",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70031",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Bayshore Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.401586",
+                      "Latitude": "37.709537"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70031",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Bayshore Caltrain Station Northbound",
+                    "Town": "San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70031",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70032",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Bayshore Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.40198",
+                      "Latitude": "37.709544"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70032",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Bayshore Caltrain Station Southbound",
+                    "Town": "San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70032",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70041",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "South San Francisco Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.4049790512",
+                      "Latitude": "37.6559413948"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70041",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "South San Francisco Caltrain Station Northbound",
+                    "Town": "South San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70041",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70042",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "South San Francisco Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.4049797097",
+                      "Latitude": "37.6559419334"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70042",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "South San Francisco Caltrain Station Southbound",
+                    "Town": "South San Francisco"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70042",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70051",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Bruno Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.4115926041",
+                      "Latitude": "37.6304996012"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70051",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Bruno Caltrain Station Northbound",
+                    "Town": "San Bruno"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70051",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70052",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Bruno Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.4117090507",
+                      "Latitude": "37.6304605129"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70052",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Bruno Caltrain Station Southbound",
+                    "Town": "San Bruno"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70052",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70061",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Millbrae Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.386647",
+                      "Latitude": "37.59988"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70061",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Millbrae Caltrain Station Northbound",
+                    "Town": "Millbrae"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70061",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70062",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Millbrae Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.386832",
+                      "Latitude": "37.599797"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70062",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Millbrae Caltrain Station Southbound",
+                    "Town": "Millbrae"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70062",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70071",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Broadway Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.36265",
+                      "Latitude": "37.58764"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70071",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Broadway Caltrain Station Northbound",
+                    "Town": "Burlingame"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70071",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70072",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Broadway Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.362708",
+                      "Latitude": "37.587552"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70072",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Broadway Caltrain Station Southbound",
+                    "Town": "Burlingame"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70072",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70081",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Burlingame Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.3449",
+                      "Latitude": "37.580197"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70081",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Burlingame Caltrain Station Northbound",
+                    "Town": "Burlingame"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70081",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70082",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Burlingame Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.345075",
+                      "Latitude": "37.580186"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70082",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Burlingame Caltrain Station Southbound",
+                    "Town": "Burlingame"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70082",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70091",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Mateo Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.323851",
+                      "Latitude": "37.568087"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70091",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Mateo Caltrain Station Northbound",
+                    "Town": "San Mateo"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70091",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70092",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Mateo Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.324092",
+                      "Latitude": "37.568294"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70092",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Mateo Caltrain Station Southbound",
+                    "Town": "San Mateo"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70092",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70101",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Hayward Park Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.309338",
+                      "Latitude": "37.552938"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70101",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Hayward Park Caltrain Station Northbound",
+                    "Town": "San Mateo"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70101",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70102",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Hayward Park Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.309608",
+                      "Latitude": "37.552994"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70102",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Hayward Park Caltrain Station Southbound",
+                    "Town": "San Mateo"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70102",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70111",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Hillsdale Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.3014966366",
+                      "Latitude": "37.542607659"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70111",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Hillsdale Caltrain Station Northbound",
+                    "Town": "San Mateo"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70111",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70112",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Hillsdale Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.301666",
+                      "Latitude": "37.542536"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70112",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Hillsdale Caltrain Station Southbound",
+                    "Town": "San Mateo"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70112",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70121",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Belmont Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.275738",
+                      "Latitude": "37.52089"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70121",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Belmont Caltrain Station Northbound",
+                    "Town": "Belmont"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70121",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70122",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Belmont Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.275816",
+                      "Latitude": "37.520844"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70122",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Belmont Caltrain Station Southbound",
+                    "Town": "Belmont"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70122",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70131",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Carlos Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.26015",
+                      "Latitude": "37.50805"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70131",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Carlos Caltrain Station Northbound",
+                    "Town": "San Carlos"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70131",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70132",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Carlos Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.260266",
+                      "Latitude": "37.507933"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70132",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Carlos Caltrain Station Southbound",
+                    "Town": "San Carlos"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70132",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70141",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Redwood City Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.231936",
+                      "Latitude": "37.486159"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70141",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Redwood City Caltrain Station Northbound",
+                    "Town": "Redwood City"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70141",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70142",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Redwood City Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.232",
+                      "Latitude": "37.486101"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70142",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Redwood City Caltrain Station Southbound",
+                    "Town": "Redwood City"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70142",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70161",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Menlo Park Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.182297",
+                      "Latitude": "37.454856"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70161",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Menlo Park Caltrain Station Northbound",
+                    "Town": "Menlo Park"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70161",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70162",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Menlo Park Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.182405",
+                      "Latitude": "37.454745"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70162",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Menlo Park Caltrain Station Southbound",
+                    "Town": "Menlo Park"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70162",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70171",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Palo Alto Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.164614",
+                      "Latitude": "37.443475"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70171",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Palo Alto Caltrain Station Northbound",
+                    "Town": "Palo Alto"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70171",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70172",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Palo Alto Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.164697",
+                      "Latitude": "37.443405"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70172",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Palo Alto Caltrain Station Southbound",
+                    "Town": "Palo Alto"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70172",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70191",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "California Avenue Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.141927",
+                      "Latitude": "37.429365"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70191",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "California Avenue Caltrain Station Northbound",
+                    "Town": "Palo Alto"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70191",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70192",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "California Avenue Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.141978",
+                      "Latitude": "37.429333"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70192",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "California Avenue Caltrain Station Southbound",
+                    "Town": "Palo Alto"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70192",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70201",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Antonio Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.1070020272",
+                      "Latitude": "37.4073321574"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70201",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Antonio Caltrain Station Northbound",
+                    "Town": "Mountain View (Santa Clara)"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70201",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70202",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Antonio Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.1071162171",
+                      "Latitude": "37.4072397241"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70202",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Antonio Caltrain Station Southbound",
+                    "Town": "Mountain View (Santa Clara)"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70202",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70211",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Mountain View Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.075956",
+                      "Latitude": "37.394459"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70211",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Mountain View Caltrain Station Northbound",
+                    "Town": "Mountain View (Santa Clara)"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70211",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70212",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Mountain View Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.075994",
+                      "Latitude": "37.394402"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70212",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Mountain View Caltrain Station Southbound",
+                    "Town": "Mountain View (Santa Clara)"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70212",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70221",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Sunnyvale Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.031372",
+                      "Latitude": "37.378916"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70221",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Sunnyvale Caltrain Station Northbound",
+                    "Town": "Sunnyvale"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70221",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70222",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Sunnyvale Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-122.031423",
+                      "Latitude": "37.378789"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70222",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Sunnyvale Caltrain Station Southbound",
+                    "Town": "Sunnyvale"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70222",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70231",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Lawrence Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.997114",
+                      "Latitude": "37.370598"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70231",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Lawrence Caltrain Station Northbound",
+                    "Town": "Sunnyvale"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70231",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70232",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Lawrence Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.997135",
+                      "Latitude": "37.370484"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70232",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Lawrence Caltrain Station Southbound",
+                    "Town": "Sunnyvale"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70232",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70241",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Santa Clara Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.93608",
+                      "Latitude": "37.353238"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70241",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Santa Clara Caltrain Station Northbound",
+                    "Town": "Santa Clara"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70241",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70242",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Santa Clara Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.936135",
+                      "Latitude": "37.353189"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70242",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Santa Clara Caltrain Station Southbound",
+                    "Town": "Santa Clara"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70242",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70251",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "College Park Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.9146",
+                      "Latitude": "37.342384"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70251",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "College Park Caltrain Station Northbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70251",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70252",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "College Park Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.914677",
+                      "Latitude": "37.342338"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70252",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "College Park Caltrain Station Southbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70252",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70261",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Jose Diridon Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.903011",
+                      "Latitude": "37.329239"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70261",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Jose Diridon Caltrain Station Northbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70261",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70262",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Jose Diridon Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.903173",
+                      "Latitude": "37.329231"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70262",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Jose Diridon Caltrain Station Southbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70262",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70271",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Tamien Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.883721",
+                      "Latitude": "37.31174"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70271",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Tamien Caltrain Station Northbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70271",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70272",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Tamien Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.883999",
+                      "Latitude": "37.31175"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70272",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Tamien Caltrain Station Southbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70272",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70281",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Capitol Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.841955",
+                      "Latitude": "37.284102"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70281",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Capitol Caltrain Station Northbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70281",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70282",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Capitol Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.842037",
+                      "Latitude": "37.284062"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70282",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Capitol Caltrain Station Southbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70282",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70291",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Blossom Hill Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.797643",
+                      "Latitude": "37.252422"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70291",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Blossom Hill Caltrain Station Northbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70291",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70292",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Blossom Hill Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.797683",
+                      "Latitude": "37.252379"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70292",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Blossom Hill Caltrain Station Southbound",
+                    "Town": "San Jose"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70292",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70301",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Morgan Hill Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.650244",
+                      "Latitude": "37.129363"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70301",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Morgan Hill Caltrain Station Northbound",
+                    "Town": "Morgan Hill"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70301",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70302",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Morgan Hill Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.650304",
+                      "Latitude": "37.129321"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70302",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Morgan Hill Caltrain Station Southbound",
+                    "Town": "Morgan Hill"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70302",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70311",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Martin Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.610049",
+                      "Latitude": "37.085225"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70311",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Martin Caltrain Station Northbound",
+                    "Town": "San Martin"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70311",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70312",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "San Martin Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.610936",
+                      "Latitude": "37.086653"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70312",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "San Martin Caltrain Station Southbound",
+                    "Town": "San Martin"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70312",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70321",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Gilroy Caltrain Station Northbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.566088",
+                      "Latitude": "37.003538"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70321",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Gilroy Caltrain Station Northbound",
+                    "Town": "Gilroy"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70321",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                },
+                {
+                  "@version": "any",
+                  "@id": "70322",
+                  "ValidBetween": {
+                    "FromDate": "2025-06-16T00:00:00-08:00",
+                    "ToDate": "2026-04-01T23:59:00-08:00"
+                  },
+                  "Name": "Gilroy Caltrain Station Southbound",
+                  "Description": null,
+                  "Centroid": {
+                    "Location": {
+                      "Longitude": "-121.566225",
+                      "Latitude": "37.003485"
+                    }
+                  },
+                  "AccessibilityAssessment": {
+                    "@version": "any",
+                    "@id": "70322",
+                    "MobilityImpairedAccess": "unknown",
+                    "limitations": {
+                      "AccessibilityLimitation": {
+                        "WheelchairAccess": "unknown"
+                      }
+                    }
+                  },
+                  "PostalAddress": {
+                    "AddressLine1": "Gilroy Caltrain Station Southbound",
+                    "Town": "Gilroy"
+                  },
+                  "Url": null,
+                  "OperatorRef": {
+                    "@ref": "CT"
+                  },
+                  "adjacentSites": {
+                    "ParkingRef": {
+                      "@ref": ""
+                    }
+                  },
+                  "PublicCode": "70322",
+                  "TransportMode": "rail",
+                  "StopPlaceType": "onstreetBus"
+                }
+              ]
+            },
+            "parkings": null
+          }
+        }
+      }
+    }
+  }
+}

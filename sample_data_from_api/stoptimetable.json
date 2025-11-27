@@ -1,0 +1,109 @@
+{
+  "Siri": {
+    "ServiceDelivery": {
+      "ResponseTimestamp": "2025-11-15T16:04:59-08:00",
+      "Status": true,
+      "StopTimetableDelivery": {
+        "ResponseTimestamp": "2025-11-15T16:04:59-08:00",
+        "TimetabledStopVisit": [
+          {
+            "RecordedAtTime": "2025-11-07T09:42:56-08:00",
+            "MonitoringRef": "70221",
+            "TargetedVehicleJourney": {
+              "LineRef": "Local Weekend",
+              "DirectionRef": "N",
+              "DatedVehicleJourneyRef": "637",
+              "PublishedLineName": "Local Weekend",
+              "OperatorRef": "CT",
+              "OriginRef": "70261",
+              "OriginName": "San Jose Diridon Caltrain Station Northbound",
+              "DestinationRef": "70011",
+              "DestinationName": "San Francisco Caltrain Station Northbound",
+              "VehicleJourneyName": "San Francisco",
+              "TargetedCall": {
+                "StopPointRef": "70221",
+                "StopPointName": "Sunnyvale Caltrain Station Northbound",
+                "DestinationDisplay": "San Francisco",
+                "VisitNumber": "1",
+                "AimedArrivalTime": "2025-11-15T16:11:59-08:00",
+                "AimedDepartureTime": "2025-11-15T16:11:59-08:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2025-11-07T09:42:56-08:00",
+            "MonitoringRef": "70221",
+            "TargetedVehicleJourney": {
+              "LineRef": "Local Weekend",
+              "DirectionRef": "N",
+              "DatedVehicleJourneyRef": "639",
+              "PublishedLineName": "Local Weekend",
+              "OperatorRef": "CT",
+              "OriginRef": "70261",
+              "OriginName": "San Jose Diridon Caltrain Station Northbound",
+              "DestinationRef": "70011",
+              "DestinationName": "San Francisco Caltrain Station Northbound",
+              "VehicleJourneyName": "San Francisco",
+              "TargetedCall": {
+                "StopPointRef": "70221",
+                "StopPointName": "Sunnyvale Caltrain Station Northbound",
+                "DestinationDisplay": "San Francisco",
+                "VisitNumber": "1",
+                "AimedArrivalTime": "2025-11-15T16:41:59-08:00",
+                "AimedDepartureTime": "2025-11-15T16:41:59-08:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2025-11-07T09:42:56-08:00",
+            "MonitoringRef": "70221",
+            "TargetedVehicleJourney": {
+              "LineRef": "Local Weekend",
+              "DirectionRef": "N",
+              "DatedVehicleJourneyRef": "641",
+              "PublishedLineName": "Local Weekend",
+              "OperatorRef": "CT",
+              "OriginRef": "70261",
+              "OriginName": "San Jose Diridon Caltrain Station Northbound",
+              "DestinationRef": "70011",
+              "DestinationName": "San Francisco Caltrain Station Northbound",
+              "VehicleJourneyName": "San Francisco",
+              "TargetedCall": {
+                "StopPointRef": "70221",
+                "StopPointName": "Sunnyvale Caltrain Station Northbound",
+                "DestinationDisplay": "San Francisco",
+                "VisitNumber": "1",
+                "AimedArrivalTime": "2025-11-15T17:11:59-08:00",
+                "AimedDepartureTime": "2025-11-15T17:11:59-08:00"
+              }
+            }
+          },
+          {
+            "RecordedAtTime": "2025-11-07T09:42:56-08:00",
+            "MonitoringRef": "70221",
+            "TargetedVehicleJourney": {
+              "LineRef": "Local Weekend",
+              "DirectionRef": "N",
+              "DatedVehicleJourneyRef": "643",
+              "PublishedLineName": "Local Weekend",
+              "OperatorRef": "CT",
+              "OriginRef": "70261",
+              "OriginName": "San Jose Diridon Caltrain Station Northbound",
+              "DestinationRef": "70011",
+              "DestinationName": "San Francisco Caltrain Station Northbound",
+              "VehicleJourneyName": "San Francisco",
+              "TargetedCall": {
+                "StopPointRef": "70221",
+                "StopPointName": "Sunnyvale Caltrain Station Northbound",
+                "DestinationDisplay": "San Francisco",
+                "VisitNumber": "1",
+                "AimedArrivalTime": "2025-11-15T17:41:59-08:00",
+                "AimedDepartureTime": "2025-11-15T17:41:59-08:00"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

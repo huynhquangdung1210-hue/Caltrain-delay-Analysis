@@ -1,0 +1,61 @@
+id,Name,ParentStation,Latitude,Longitude,FromDate,ToDate,StopType
+70021,22nd Street Caltrain Station Northbound,22nd_street,37.757599,-122.39188,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70022,22nd Street Caltrain Station Southbound,22nd_street,37.757583,-122.392404,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70031,Bayshore Caltrain Station Northbound,bayshore,37.709537,-122.401586,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70032,Bayshore Caltrain Station Southbound,bayshore,37.709544,-122.40198,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70121,Belmont Caltrain Station Northbound,belmont,37.52089,-122.275738,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70122,Belmont Caltrain Station Southbound,belmont,37.520844,-122.275816,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70291,Blossom Hill Caltrain Station Northbound,blossom_hill,37.252422,-121.797643,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70292,Blossom Hill Caltrain Station Southbound,blossom_hill,37.252379,-121.797683,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70071,Broadway Caltrain Station Northbound,broadway,37.58764,-122.36265,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70072,Broadway Caltrain Station Southbound,broadway,37.587552,-122.362708,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70081,Burlingame Caltrain Station Northbound,burlingame,37.580197,-122.3449,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70082,Burlingame Caltrain Station Southbound,burlingame,37.580186,-122.345075,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70191,California Avenue Caltrain Station Northbound,california_ave,37.429365,-122.141927,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70192,California Avenue Caltrain Station Southbound,california_ave,37.429333,-122.141978,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70281,Capitol Caltrain Station Northbound,capitol,37.284102,-121.841955,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70282,Capitol Caltrain Station Southbound,capitol,37.284062,-121.842037,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70251,College Park Caltrain Station Northbound,college_park,37.342384,-121.9146,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70252,College Park Caltrain Station Southbound,college_park,37.342338,-121.914677,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70321,Gilroy Caltrain Station Northbound,gilroy,37.003538,-121.566088,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70322,Gilroy Caltrain Station Southbound,gilroy,37.003485,-121.566225,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70101,Hayward Park Caltrain Station Northbound,hayward_park,37.552938,-122.309338,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70102,Hayward Park Caltrain Station Southbound,hayward_park,37.552994,-122.309608,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70111,Hillsdale Caltrain Station Northbound,hillsdale,37.542607659,-122.3014966366,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70112,Hillsdale Caltrain Station Southbound,hillsdale,37.542536,-122.301666,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70231,Lawrence Caltrain Station Northbound,lawrence,37.370598,-121.997114,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70232,Lawrence Caltrain Station Southbound,lawrence,37.370484,-121.997135,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70161,Menlo Park Caltrain Station Northbound,menlo_park,37.454856,-122.182297,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70162,Menlo Park Caltrain Station Southbound,menlo_park,37.454745,-122.182405,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70061,Millbrae Caltrain Station Northbound,place_MLBR,37.59988,-122.386647,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70062,Millbrae Caltrain Station Southbound,place_MLBR,37.599797,-122.386832,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70301,Morgan Hill Caltrain Station Northbound,morgan_hill,37.129363,-121.650244,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70302,Morgan Hill Caltrain Station Southbound,morgan_hill,37.129321,-121.650304,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70211,Mountain View Caltrain Station Northbound,mountain_view,37.394459,-122.075956,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70212,Mountain View Caltrain Station Southbound,mountain_view,37.394402,-122.075994,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70171,Palo Alto Caltrain Station Northbound,palo_alto,37.443475,-122.164614,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70172,Palo Alto Caltrain Station Southbound,palo_alto,37.443405,-122.164697,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70141,Redwood City Caltrain Station Northbound,redwood_city,37.486159,-122.231936,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70142,Redwood City Caltrain Station Southbound,redwood_city,37.486101,-122.232,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70201,San Antonio Caltrain Station Northbound,san_antonio,37.4073321574,-122.1070020272,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70202,San Antonio Caltrain Station Southbound,san_antonio,37.4072397241,-122.1071162171,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70051,San Bruno Caltrain Station Northbound,san_bruno,37.6304996012,-122.4115926041,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70052,San Bruno Caltrain Station Southbound,san_bruno,37.6304605129,-122.4117090507,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70131,San Carlos Caltrain Station Northbound,san_carlos,37.50805,-122.26015,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70132,San Carlos Caltrain Station Southbound,san_carlos,37.507933,-122.260266,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70011,San Francisco Caltrain Station Northbound,san_francisco,37.77639,-122.394992,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70012,San Francisco Caltrain Station Southbound,san_francisco,37.776348,-122.394935,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70261,San Jose Diridon Caltrain Station Northbound,sj_diridon,37.329239,-121.903011,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70262,San Jose Diridon Caltrain Station Southbound,sj_diridon,37.329231,-121.903173,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70311,San Martin Caltrain Station Northbound,san_martin,37.085225,-121.610049,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70312,San Martin Caltrain Station Southbound,san_martin,37.086653,-121.610936,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70091,San Mateo Caltrain Station Northbound,san_mateo,37.568087,-122.323851,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70092,San Mateo Caltrain Station Southbound,san_mateo,37.568294,-122.324092,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70241,Santa Clara Caltrain Station Northbound,santa_clara,37.353238,-121.93608,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70242,Santa Clara Caltrain Station Southbound,santa_clara,37.353189,-121.936135,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70041,South San Francisco Caltrain Station Northbound,south_sf,37.6559413948,-122.4049790512,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70042,South San Francisco Caltrain Station Southbound,south_sf,37.6559419334,-122.4049797097,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70221,Sunnyvale Caltrain Station Northbound,sunnyvale,37.378916,-122.031372,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70222,Sunnyvale Caltrain Station Southbound,sunnyvale,37.378789,-122.031423,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70271,Tamien Caltrain Station Northbound,tamien,37.31174,-121.883721,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus
+70272,Tamien Caltrain Station Southbound,tamien,37.31175,-121.883999,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,onstreetBus

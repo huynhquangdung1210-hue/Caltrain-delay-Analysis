@@ -1,0 +1,6 @@
+Id,Name,FromDate,ToDate,TransportMode,PublicCode,SiriLineRef,Monitored,OperatorRef
+Limited,,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,rail,Limited,LIM,True,CT
+South County,South Santa Clara County Connector,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,rail,South County,SCC,True,CT
+Local Weekday,,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,rail,Local Weekday,LOC,True,CT
+Local Weekend,,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,rail,Local Weekend,LOC,True,CT
+Express,,2025-06-16T00:00:00-08:00,2026-04-01T23:59:00-08:00,rail,Express,EXP,True,CT

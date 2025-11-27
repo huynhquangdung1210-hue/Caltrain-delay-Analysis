@@ -1,0 +1,61 @@
+@id,Name,PublicCode,TransportMode,Centroid.Location.Latitude,Centroid.Location.Longitude,PostalAddress.AddressLine1,PostalAddress.Town
+70011,San Francisco Caltrain Station Northbound,70011,rail,37.77639,-122.394992,San Francisco Caltrain Station Northbound,San Francisco
+70012,San Francisco Caltrain Station Southbound,70012,rail,37.776348,-122.394935,San Francisco Caltrain Station Southbound,San Francisco
+70021,22nd Street Caltrain Station Northbound,70021,rail,37.757599,-122.39188,22nd Street Caltrain Station Northbound,San Francisco
+70022,22nd Street Caltrain Station Southbound,70022,rail,37.757583,-122.392404,22nd Street Caltrain Station Southbound,San Francisco
+70031,Bayshore Caltrain Station Northbound,70031,rail,37.709537,-122.401586,Bayshore Caltrain Station Northbound,San Francisco
+70032,Bayshore Caltrain Station Southbound,70032,rail,37.709544,-122.40198,Bayshore Caltrain Station Southbound,San Francisco
+70041,South San Francisco Caltrain Station Northbound,70041,rail,37.6559413948,-122.4049790512,South San Francisco Caltrain Station Northbound,South San Francisco
+70042,South San Francisco Caltrain Station Southbound,70042,rail,37.6559419334,-122.4049797097,South San Francisco Caltrain Station Southbound,South San Francisco
+70051,San Bruno Caltrain Station Northbound,70051,rail,37.6304996012,-122.4115926041,San Bruno Caltrain Station Northbound,San Bruno
+70052,San Bruno Caltrain Station Southbound,70052,rail,37.6304605129,-122.4117090507,San Bruno Caltrain Station Southbound,San Bruno
+70061,Millbrae Caltrain Station Northbound,70061,rail,37.59988,-122.386647,Millbrae Caltrain Station Northbound,Millbrae
+70062,Millbrae Caltrain Station Southbound,70062,rail,37.599797,-122.386832,Millbrae Caltrain Station Southbound,Millbrae
+70071,Broadway Caltrain Station Northbound,70071,rail,37.58764,-122.36265,Broadway Caltrain Station Northbound,Burlingame
+70072,Broadway Caltrain Station Southbound,70072,rail,37.587552,-122.362708,Broadway Caltrain Station Southbound,Burlingame
+70081,Burlingame Caltrain Station Northbound,70081,rail,37.580197,-122.3449,Burlingame Caltrain Station Northbound,Burlingame
+70082,Burlingame Caltrain Station Southbound,70082,rail,37.580186,-122.345075,Burlingame Caltrain Station Southbound,Burlingame
+70091,San Mateo Caltrain Station Northbound,70091,rail,37.568087,-122.323851,San Mateo Caltrain Station Northbound,San Mateo
+70092,San Mateo Caltrain Station Southbound,70092,rail,37.568294,-122.324092,San Mateo Caltrain Station Southbound,San Mateo
+70101,Hayward Park Caltrain Station Northbound,70101,rail,37.552938,-122.309338,Hayward Park Caltrain Station Northbound,San Mateo
+70102,Hayward Park Caltrain Station Southbound,70102,rail,37.552994,-122.309608,Hayward Park Caltrain Station Southbound,San Mateo
+70111,Hillsdale Caltrain Station Northbound,70111,rail,37.542607659,-122.3014966366,Hillsdale Caltrain Station Northbound,San Mateo
+70112,Hillsdale Caltrain Station Southbound,70112,rail,37.542536,-122.301666,Hillsdale Caltrain Station Southbound,San Mateo
+70121,Belmont Caltrain Station Northbound,70121,rail,37.52089,-122.275738,Belmont Caltrain Station Northbound,Belmont
+70122,Belmont Caltrain Station Southbound,70122,rail,37.520844,-122.275816,Belmont Caltrain Station Southbound,Belmont
+70131,San Carlos Caltrain Station Northbound,70131,rail,37.50805,-122.26015,San Carlos Caltrain Station Northbound,San Carlos
+70132,San Carlos Caltrain Station Southbound,70132,rail,37.507933,-122.260266,San Carlos Caltrain Station Southbound,San Carlos
+70141,Redwood City Caltrain Station Northbound,70141,rail,37.486159,-122.231936,Redwood City Caltrain Station Northbound,Redwood City
+70142,Redwood City Caltrain Station Southbound,70142,rail,37.486101,-122.232,Redwood City Caltrain Station Southbound,Redwood City
+70161,Menlo Park Caltrain Station Northbound,70161,rail,37.454856,-122.182297,Menlo Park Caltrain Station Northbound,Menlo Park
+70162,Menlo Park Caltrain Station Southbound,70162,rail,37.454745,-122.182405,Menlo Park Caltrain Station Southbound,Menlo Park
+70171,Palo Alto Caltrain Station Northbound,70171,rail,37.443475,-122.164614,Palo Alto Caltrain Station Northbound,Palo Alto
+70172,Palo Alto Caltrain Station Southbound,70172,rail,37.443405,-122.164697,Palo Alto Caltrain Station Southbound,Palo Alto
+70191,California Avenue Caltrain Station Northbound,70191,rail,37.429365,-122.141927,California Avenue Caltrain Station Northbound,Palo Alto
+70192,California Avenue Caltrain Station Southbound,70192,rail,37.429333,-122.141978,California Avenue Caltrain Station Southbound,Palo Alto
+70201,San Antonio Caltrain Station Northbound,70201,rail,37.4073321574,-122.1070020272,San Antonio Caltrain Station Northbound,Mountain View (Santa Clara)
+70202,San Antonio Caltrain Station Southbound,70202,rail,37.4072397241,-122.1071162171,San Antonio Caltrain Station Southbound,Mountain View (Santa Clara)
+70211,Mountain View Caltrain Station Northbound,70211,rail,37.394459,-122.075956,Mountain View Caltrain Station Northbound,Mountain View (Santa Clara)
+70212,Mountain View Caltrain Station Southbound,70212,rail,37.394402,-122.075994,Mountain View Caltrain Station Southbound,Mountain View (Santa Clara)
+70221,Sunnyvale Caltrain Station Northbound,70221,rail,37.378916,-122.031372,Sunnyvale Caltrain Station Northbound,Sunnyvale
+70222,Sunnyvale Caltrain Station Southbound,70222,rail,37.378789,-122.031423,Sunnyvale Caltrain Station Southbound,Sunnyvale
+70231,Lawrence Caltrain Station Northbound,70231,rail,37.370598,-121.997114,Lawrence Caltrain Station Northbound,Sunnyvale
+70232,Lawrence Caltrain Station Southbound,70232,rail,37.370484,-121.997135,Lawrence Caltrain Station Southbound,Sunnyvale
+70241,Santa Clara Caltrain Station Northbound,70241,rail,37.353238,-121.93608,Santa Clara Caltrain Station Northbound,Santa Clara
+70242,Santa Clara Caltrain Station Southbound,70242,rail,37.353189,-121.936135,Santa Clara Caltrain Station Southbound,Santa Clara
+70251,College Park Caltrain Station Northbound,70251,rail,37.342384,-121.9146,College Park Caltrain Station Northbound,San Jose
+70252,College Park Caltrain Station Southbound,70252,rail,37.342338,-121.914677,College Park Caltrain Station Southbound,San Jose
+70261,San Jose Diridon Caltrain Station Northbound,70261,rail,37.329239,-121.903011,San Jose Diridon Caltrain Station Northbound,San Jose
+70262,San Jose Diridon Caltrain Station Southbound,70262,rail,37.329231,-121.903173,San Jose Diridon Caltrain Station Southbound,San Jose
+70271,Tamien Caltrain Station Northbound,70271,rail,37.31174,-121.883721,Tamien Caltrain Station Northbound,San Jose
+70272,Tamien Caltrain Station Southbound,70272,rail,37.31175,-121.883999,Tamien Caltrain Station Southbound,San Jose
+70281,Capitol Caltrain Station Northbound,70281,rail,37.284102,-121.841955,Capitol Caltrain Station Northbound,San Jose
+70282,Capitol Caltrain Station Southbound,70282,rail,37.284062,-121.842037,Capitol Caltrain Station Southbound,San Jose
+70291,Blossom Hill Caltrain Station Northbound,70291,rail,37.252422,-121.797643,Blossom Hill Caltrain Station Northbound,San Jose
+70292,Blossom Hill Caltrain Station Southbound,70292,rail,37.252379,-121.797683,Blossom Hill Caltrain Station Southbound,San Jose
+70301,Morgan Hill Caltrain Station Northbound,70301,rail,37.129363,-121.650244,Morgan Hill Caltrain Station Northbound,Morgan Hill
+70302,Morgan Hill Caltrain Station Southbound,70302,rail,37.129321,-121.650304,Morgan Hill Caltrain Station Southbound,Morgan Hill
+70311,San Martin Caltrain Station Northbound,70311,rail,37.085225,-121.610049,San Martin Caltrain Station Northbound,San Martin
+70312,San Martin Caltrain Station Southbound,70312,rail,37.086653,-121.610936,San Martin Caltrain Station Southbound,San Martin
+70321,Gilroy Caltrain Station Northbound,70321,rail,37.003538,-121.566088,Gilroy Caltrain Station Northbound,Gilroy
+70322,Gilroy Caltrain Station Southbound,70322,rail,37.003485,-121.566225,Gilroy Caltrain Station Southbound,Gilroy
