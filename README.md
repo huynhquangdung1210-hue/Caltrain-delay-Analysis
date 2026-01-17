@@ -95,6 +95,19 @@ Open `graph.ipynb` in Jupyter or VS Code and execute cells sequentially:
 
 ---
 
+## Visualization Gallery
+
+**Departure Delay vs Scheduled Time (colored by Route)**
+![Departure Delay vs Scheduled Time (colored by Route)](visualizations/fin_Departure%20Delay%20vs%20Scheduled%20Time%20%E2%80%94%20colored%20by%20Route.png)
+
+**1D KDE of Departure Delay by Route**
+![1D KDE of Departure Delay by Route](visualizations/fin_1D%20KDE%20of%20Departure%20Delay%20by%20Route.png)
+
+**2D KDE of Departure Delay by Route with Scatter**
+![2D KDE of Departure Delay by Route with Scatter](visualizations/fin_2D%20KDE%20of%20Departure%20Delay%20by%20Route%20with%20Scatter.png)
+
+---
+
 ## Data Transformation Scripts
 
 ### Real-Time Feed Decoders
